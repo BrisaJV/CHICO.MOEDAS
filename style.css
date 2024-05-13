@@ -1,0 +1,25 @@
+{
+    margin: 25;
+    padding: 0;
+  }
+  
+  .cabeçalho-imagem{
+    width: 15%;
+    height: 10%;
+  }
+  
+  .cabeçalho {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETVAOgF5f3pbMNh9lGgl0eCbdrVmX8bcqfA1mh-m6Ww&s);
+    color: white;
+    display:flex;
+    justify-content: space-around;
+    padding: 24px 0;
+  }
+  
+  .cabeçalho-lista-item{
+    display: inline-block;
+  margin: 0 20px;
+  padding: 30px 0;
+  font-size:  24px;
+  }
+  
