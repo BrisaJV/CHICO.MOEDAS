@@ -9,11 +9,11 @@
   }
   
   .cabeçalho {
-    background-image: url(https://mixme.com.br/wp-content/uploads/2024/01/chico-moedas-ironiza-participacao-no-bbb.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoKU2rZuIo3TMmCv7qLyyc_xYqnJe7gomXKg&s);
     color: white;
     display:flex;
     justify-content: space-around;
-    padding: 5px 0;
+    padding: 15px 0;
   }
   
   .cabeçalho-lista-item{
