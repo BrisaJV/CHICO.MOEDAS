@@ -1,6 +1,9 @@
-{
-    margin: 25;
-    padding: 0;
+p{
+  text-align:center;
+  }
+
+  body{
+    bakground:rgb(255,255,255)
   }
   
   .cabeçalho-imagem{
