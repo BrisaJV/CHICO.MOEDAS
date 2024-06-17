@@ -12,7 +12,7 @@
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReftq3AnHaswfe3l5FjQiAS_3fiTn6SiXfSQ&s);
   display:flex;
   justify-content: space-around;
-  padding: 75px 0;
+  padding: 25px 0;
 }
 
 .cabeçalho-lista-item{
